@@ -1,5 +1,5 @@
 trySE2
 
-ffff
+trying
 
 this is G
